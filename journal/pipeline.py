@@ -3,9 +3,9 @@ from .normalize import clean_text
 from .scoring import classify, energy_score
 from .storage import read,write,overwrite
 
-def run(input = "entries.json", out = "output.json"):
+def run(input = "entries.json", out = "output.json", model="cardiffnlp/twitter-roberta-base-sentiment"):
     # RoBERTa sentiment analysis pipeline
-    classifier = pipeline("sentiment-analysis",model="cardiffnlp/twitter-roberta-base-sentiment")
+    classifier = pipeline("sentiment-analysis",model)
     overwrite(out)
     entries = read(input) or []
     output = []
