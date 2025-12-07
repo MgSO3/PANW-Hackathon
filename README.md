@@ -1,28 +1,27 @@
 # Mental Wellbeing Journal - CLI Sentiment Analyzer
-
-## Overview
     This project is a command line journal tool that takes journal entries as input, and outputs an analysis of the sentiment of those entries. This is made to allow unorganized inputs with inconsistent grammar, slang, and emojis. 
 
-    This tool uses the **RoBERTa sentiment analysis tool** from the HuggingFace `transformers` library to classify entries as Positive, Negative, or Neutral and calculates an energy score from 0 to 100.
+    This tool uses the RoBERTa sentiment analysis tool from the HuggingFace transformers library to classify entries as Positive, Negative, or Neutral and calculates an energy score from 0 to 100, and includes a confidence percentage for each entry. 
 
 ---
 
 ## Installation
-    1. Clone the repo
-        ```bash
-        git clone 
-        cd journal
-    2. Install dependencies
+    # 1. Clone the repository
+        git clone https://github.com/MgSO3/PANW-Hackathon
+        cd Mental-Wellbeing-Journal
+
+    # 2. Install dependencies
         pip install -r requirements.txt
-    3. Run the CLI
-        python -m journal
-    4. Run test cases
+
+    # 3. Run the CLI
+        python -m journal --input entries.json --output output.json
+
+    # 4. Run tests
         pytest
 ## Usage
 
-    Adding entries
-        Add entries by appending to `entries.json`
-        Output is stored in `output.json`
+    Add entries by appending to `entries.json`
+    Output is stored in `output.json`
 
     
 ## AI Disclosure
