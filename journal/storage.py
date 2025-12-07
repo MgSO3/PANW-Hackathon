@@ -1,6 +1,7 @@
 import json
 import os
 
+#Shortcuts made for reading, writing, and overwriting files
 def read(path):
     if not os.path.exists(path):
         return []

@@ -24,7 +24,9 @@
     Output is stored in `output.json`
 
     
-## AI Disclosure
+## Methodology
     This project was made using an AI sentiment analysis model from the HuggingFace `transformers` library. ChatGPT was used for data generation, research, and help understanding certain unfamiliar libraries. The final codebase is fully owned and validated by the developer.
+
+    
 ## Notes 
     Sentiment Analysis is probabilistic, and a pre-trained model was used for the scores created. Therefore, some ambiguous entries are not always classified correctly. To combat this, I created the energy score and confidence interval, for more depth than just a qualitative output.
