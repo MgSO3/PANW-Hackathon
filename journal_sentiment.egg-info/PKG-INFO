@@ -65,3 +65,6 @@ I decided to use click as well for robustness.
 
 ## Notes 
 Sentiment Analysis is probabilistic, and a pre-trained model was used for the scores created. Therefore, some ambiguous entries are not always classified correctly. To combat this, I created the energy score and confidence interval, for more depth than just a qualitative output.
+
+## Future Steps
+In the future, I would add a local web UI for ease of use, if the users are not comfortable with CLI, where the user could simply upload the input file and receive an output file to download with the last 3 printed entries. I would also add visualization of sentiment over time.

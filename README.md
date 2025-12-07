@@ -1,5 +1,5 @@
 # Mental Wellbeing Journal - CLI Sentiment Analyzer
-This project is a command line journal tool that takes journal entries as input, and outputs an analysis of the sentiment of those entries. This is made to allow unorganized inputs with inconsistent grammar, slang, and emojis. 
+This project is a command line journal tool that takes journal entries as input, and outputs an analysis of the sentiment of those entries. This is made to allow unorganized inputs with inconsistent grammar, slang, and emojis.
 
 This tool uses the RoBERTa sentiment analysis tool from the HuggingFace transformers library to classify entries as Positive, Negative, or Neutral and calculates an energy score from 0 to 100, and includes a confidence percentage for each entry. 
 
@@ -49,6 +49,11 @@ To minimize messiness, I optimized for few commands to run the system, and to ha
 
 I decided to use click as well for robustness.
 
+I created a logger for easy debugging, if this were to be used in the future.
+
 
 ## Notes 
 Sentiment Analysis is probabilistic, and a pre-trained model was used for the scores created. Therefore, some ambiguous entries are not always classified correctly. To combat this, I created the energy score and confidence interval, for more depth than just a qualitative output.
+
+## Future Steps
+In the future, I would add a local web UI for ease of use, if the users are not comfortable with CLI, where the user could simply upload the input file and receive an output file to download with the last 3 printed entries. I would also add visualization of sentiment over time, for clients to access their data in a better format. I could then implement an ML model to record longer journal logs, where it could identify potential stressors, and try to help the person have more positive and high energy days.

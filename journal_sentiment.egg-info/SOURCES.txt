@@ -2,6 +2,7 @@ README.md
 pyproject.toml
 journal/__init__.py
 journal/__main__.py
+journal/logger.py
 journal/normalize.py
 journal/pipeline.py
 journal/scoring.py
