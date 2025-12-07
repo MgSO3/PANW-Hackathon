@@ -1,0 +1,4 @@
+transformers>=4.30
+torch>=2.0
+emoji>=2.8
+pandas>=2.0

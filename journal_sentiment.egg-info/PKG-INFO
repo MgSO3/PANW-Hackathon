@@ -1,0 +1,11 @@
+Metadata-Version: 2.4
+Name: journal-sentiment
+Version: 0.1.0
+Summary: A command-line journal sentiment analyzer using RoBERTa
+Author-email: Your Name <you@example.com>
+Requires-Python: >=3.10
+Description-Content-Type: text/markdown
+Requires-Dist: transformers>=4.30
+Requires-Dist: torch>=2.0
+Requires-Dist: emoji>=2.8
+Requires-Dist: pandas>=2.0

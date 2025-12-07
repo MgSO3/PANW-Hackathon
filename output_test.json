@@ -1,0 +1,26 @@
+[
+  {
+    "entry": "I am crushing it \ud83d\ude01",
+    "sentiment": "Positive",
+    "confidence": 95,
+    "energy_score": 99
+  },
+  {
+    "entry": "Today is crushing me \ud83d\ude2d",
+    "sentiment": "Negative",
+    "confidence": 89,
+    "energy_score": 4
+  },
+  {
+    "entry": "Feeling meh today \ud83d\ude10",
+    "sentiment": "Negative",
+    "confidence": 61,
+    "energy_score": 11
+  },
+  {
+    "entry": "Great energy! \ud83d\udd25",
+    "sentiment": "Positive",
+    "confidence": 95,
+    "energy_score": 99
+  }
+]

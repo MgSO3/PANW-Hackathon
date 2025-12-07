@@ -1,0 +1,26 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "journal-sentiment"
+version = "0.1.0"
+description = "A command-line journal sentiment analyzer using RoBERTa"
+readme = "README.md"
+requires-python = ">=3.10"
+authors = [
+  { name = "Your Name", email = "you@example.com" }
+]
+
+dependencies = [
+  "transformers>=4.30",
+  "torch>=2.0",
+  "emoji>=2.8",
+  "click>=8.0"
+]
+
+[project.scripts]
+journal = "journal.cli:main"
+
+[tool.setuptools]
+packages = ["journal"]

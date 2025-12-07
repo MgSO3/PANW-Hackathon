@@ -1,0 +1,848 @@
+[
+  {
+    "entry": "OMG I\u2019m totally crushing it at work! \ud83d\ude0e",
+    "sentiment": "Positive",
+    "confidence": 98,
+    "energy_score": 99
+  },
+  {
+    "entry": "The workload is crushing me, fr \ud83d\ude02",
+    "sentiment": "Negative",
+    "confidence": 66,
+    "energy_score": 11
+  },
+  {
+    "entry": "Feeling kinda meh today, idk why \ud83d\ude15",
+    "sentiment": "Negative",
+    "confidence": 60,
+    "energy_score": 11
+  },
+  {
+    "entry": "Just another normal day, nothing crazy happening.",
+    "sentiment": "Positive",
+    "confidence": 37,
+    "energy_score": 83
+  },
+  {
+    "entry": "Had lunch a little late today, but it was fine.",
+    "sentiment": "Positive",
+    "confidence": 69,
+    "energy_score": 92
+  },
+  {
+    "entry": "Legit had the best day ever!!! So pumped \ud83d\udcaa\ud83d\udd25",
+    "sentiment": "Positive",
+    "confidence": 98,
+    "energy_score": 99
+  },
+  {
+    "entry": "ugh can\u2019t even deal with this deadline smh",
+    "sentiment": "Negative",
+    "confidence": 84,
+    "energy_score": 5
+  },
+  {
+    "entry": "Finished some chores, pretty average day overall.",
+    "sentiment": "Neutral",
+    "confidence": 34,
+    "energy_score": 54
+  },
+  {
+    "entry": "Weather was kinda bland today, not good or bad.",
+    "sentiment": "Negative",
+    "confidence": 43,
+    "energy_score": 17
+  },
+  {
+    "entry": "Feeling blessed tho, y\u2019all \ud83d\ude4f\u2764\ufe0f",
+    "sentiment": "Positive",
+    "confidence": 96,
+    "energy_score": 99
+  },
+  {
+    "entry": "Work\u2019s insane, brain fried lmao",
+    "sentiment": "Negative",
+    "confidence": 70,
+    "energy_score": 10
+  },
+  {
+    "entry": "Just did my usual morning routine, nothing special.",
+    "sentiment": "Neutral",
+    "confidence": 42,
+    "energy_score": 61
+  },
+  {
+    "entry": "Walked around for a bit, pretty chill and uneventful.",
+    "sentiment": "Positive",
+    "confidence": 66,
+    "energy_score": 91
+  },
+  {
+    "entry": "I\u2019m vibing super hard rn, so happy \ud83d\ude01",
+    "sentiment": "Positive",
+    "confidence": 98,
+    "energy_score": 99
+  },
+  {
+    "entry": "Today sucked big time, everything went wrong \ud83d\ude22",
+    "sentiment": "Negative",
+    "confidence": 96,
+    "energy_score": 1
+  },
+  {
+    "entry": "Not gonna lie, kinda nervous about the meeting tbh",
+    "sentiment": "Negative",
+    "confidence": 20,
+    "energy_score": 22
+  },
+  {
+    "entry": "Y\u2019all, my team killed it today, fr fr \ud83d\udc4f",
+    "sentiment": "Positive",
+    "confidence": 95,
+    "energy_score": 99
+  },
+  {
+    "entry": "Checked emails for like an hour, boring but fine.",
+    "sentiment": "Neutral",
+    "confidence": 12,
+    "energy_score": 45
+  },
+  {
+    "entry": "Made some tea and tried to relax, just an okay moment.",
+    "sentiment": "Positive",
+    "confidence": 77,
+    "energy_score": 94
+  },
+  {
+    "entry": "Idk why I feel so anxious, smh \ud83d\ude30",
+    "sentiment": "Negative",
+    "confidence": 83,
+    "energy_score": 5
+  },
+  {
+    "entry": "Can\u2019t believe I finished that project, legit \ud83d\ude0e",
+    "sentiment": "Positive",
+    "confidence": 74,
+    "energy_score": 92
+  },
+  {
+    "entry": "Mood: exhausted but accomplished \ud83d\ude34\ud83d\udcaf",
+    "sentiment": "Positive",
+    "confidence": 37,
+    "energy_score": 83
+  },
+  {
+    "entry": "Quick grocery store run, pretty standard.",
+    "sentiment": "Neutral",
+    "confidence": 5,
+    "energy_score": 73
+  },
+  {
+    "entry": "Had a pretty normal day, nothing much to report.",
+    "sentiment": "Positive",
+    "confidence": 67,
+    "energy_score": 91
+  },
+  {
+    "entry": "Work is lit today, crushin\u2019 it \ud83d\udd25\ud83d\udd25",
+    "sentiment": "Positive",
+    "confidence": 93,
+    "energy_score": 98
+  },
+  {
+    "entry": "Man, this coffee ain\u2019t helping me rn \ud83d\ude29\u2615",
+    "sentiment": "Negative",
+    "confidence": 76,
+    "energy_score": 7
+  },
+  {
+    "entry": "Feeling overwhelmed af, send help pls \ud83d\ude2d",
+    "sentiment": "Negative",
+    "confidence": 47,
+    "energy_score": 16
+  },
+  {
+    "entry": "Doing laundry\u2026 super thrilling as usual.",
+    "sentiment": "Positive",
+    "confidence": 94,
+    "energy_score": 98
+  },
+  {
+    "entry": "Just listening to music and chilling, pretty neutral day.",
+    "sentiment": "Positive",
+    "confidence": 84,
+    "energy_score": 96
+  },
+  {
+    "entry": "Totally slaying my personal goals rn \u2728\ud83d\udc83",
+    "sentiment": "Positive",
+    "confidence": 95,
+    "energy_score": 99
+  },
+  {
+    "entry": "Stress level: maxed out, fr fr smh",
+    "sentiment": "Negative",
+    "confidence": 63,
+    "energy_score": 11
+  },
+  {
+    "entry": "Lol, today was kinda chill ngl \ud83d\ude0c",
+    "sentiment": "Positive",
+    "confidence": 90,
+    "energy_score": 97
+  },
+  {
+    "entry": "Frustrated af, can\u2019t focus at all \ud83d\ude24",
+    "sentiment": "Negative",
+    "confidence": 88,
+    "energy_score": 4
+  },
+  {
+    "entry": "Just scrolling on my phone, wasting time lol.",
+    "sentiment": "Negative",
+    "confidence": 56,
+    "energy_score": 14
+  },
+  {
+    "entry": "Not much happening today, kinda quiet.",
+    "sentiment": "Neutral",
+    "confidence": 53,
+    "energy_score": 57
+  },
+  {
+    "entry": "I\u2019m lowkey excited for the weekend \ud83d\ude0e",
+    "sentiment": "Positive",
+    "confidence": 98,
+    "energy_score": 99
+  },
+  {
+    "entry": "Workload is cray, not even kidding \ud83e\udd2f",
+    "sentiment": "Negative",
+    "confidence": 66,
+    "energy_score": 11
+  },
+  {
+    "entry": "Big W today, team is killing it \ud83d\udc4f\ud83d\udd25",
+    "sentiment": "Positive",
+    "confidence": 96,
+    "energy_score": 99
+  },
+  {
+    "entry": "Feeling anxious tbh, heartbeat won\u2019t stop \ud83d\ude30",
+    "sentiment": "Negative",
+    "confidence": 61,
+    "energy_score": 11
+  },
+  {
+    "entry": "Mood swings on fleek lol \ud83d\ude05",
+    "sentiment": "Neutral",
+    "confidence": 24,
+    "energy_score": 63
+  },
+  {
+    "entry": "Had a snack and chilled for a bit, overall calm day.",
+    "sentiment": "Positive",
+    "confidence": 72,
+    "energy_score": 93
+  },
+  {
+    "entry": "Just sitting here thinking about nothing important.",
+    "sentiment": "Negative",
+    "confidence": 46,
+    "energy_score": 15
+  },
+  {
+    "entry": "Chill day at work, vibes were good \ud83d\ude0c",
+    "sentiment": "Positive",
+    "confidence": 94,
+    "energy_score": 99
+  },
+  {
+    "entry": "Dead tired, brain fried af \ud83d\ude34",
+    "sentiment": "Negative",
+    "confidence": 81,
+    "energy_score": 6
+  },
+  {
+    "entry": "So hyped about my new project \ud83d\udcaa\u2728",
+    "sentiment": "Positive",
+    "confidence": 98,
+    "energy_score": 99
+  },
+  {
+    "entry": "Lowkey stressed, deadlines everywhere \ud83d\ude13",
+    "sentiment": "Negative",
+    "confidence": 37,
+    "energy_score": 19
+  },
+  {
+    "entry": "Took a short walk outside, kinda refreshing but normal.",
+    "sentiment": "Positive",
+    "confidence": 79,
+    "energy_score": 95
+  },
+  {
+    "entry": "Nothing too exciting today, pretty middle-of-the-road.",
+    "sentiment": "Negative",
+    "confidence": 13,
+    "energy_score": 34
+  },
+  {
+    "entry": "OMG can\u2019t stop laughing, hilarious \ud83d\ude02\ud83d\ude02",
+    "sentiment": "Positive",
+    "confidence": 84,
+    "energy_score": 95
+  },
+  {
+    "entry": "Mood: exhausted but happy \ud83d\ude34\ud83d\ude0a",
+    "sentiment": "Positive",
+    "confidence": 87,
+    "energy_score": 97
+  },
+  {
+    "entry": "Crushing deadlines like a boss \ud83d\udcbc\ud83d\udd25",
+    "sentiment": "Positive",
+    "confidence": 31,
+    "energy_score": 81
+  },
+  {
+    "entry": "Wanna nap forever, smh \ud83d\ude29",
+    "sentiment": "Neutral",
+    "confidence": 19,
+    "energy_score": 50
+  },
+  {
+    "entry": "Feeling grateful today \ud83d\ude4f\u2764\ufe0f",
+    "sentiment": "Positive",
+    "confidence": 96,
+    "energy_score": 99
+  },
+  {
+    "entry": "High energy, totally vibing rn \ud83d\ude01\u2728",
+    "sentiment": "Positive",
+    "confidence": 93,
+    "energy_score": 98
+  },
+  {
+    "entry": "Frustrated with coworkers, smh \ud83d\ude24",
+    "sentiment": "Negative",
+    "confidence": 83,
+    "energy_score": 5
+  },
+  {
+    "entry": "Big wins today, so proud \ud83d\ude0e\ud83d\udc4f",
+    "sentiment": "Positive",
+    "confidence": 98,
+    "energy_score": 99
+  },
+  {
+    "entry": "I\u2019m dead tired af, but happy \ud83d\ude34\ud83d\udcaa",
+    "sentiment": "Positive",
+    "confidence": 85,
+    "energy_score": 95
+  },
+  {
+    "entry": "Workload insane, send help pls \ud83e\udd2f",
+    "sentiment": "Negative",
+    "confidence": 76,
+    "energy_score": 8
+  },
+  {
+    "entry": "Feeling on top of the world \ud83d\ude01\ud83c\udf0e",
+    "sentiment": "Positive",
+    "confidence": 95,
+    "energy_score": 99
+  },
+  {
+    "entry": "Stress level high, heartbeat racing \ud83d\ude30",
+    "sentiment": "Negative",
+    "confidence": 29,
+    "energy_score": 21
+  },
+  {
+    "entry": "Did some tidying up, pretty normal stuff.",
+    "sentiment": "Positive",
+    "confidence": 37,
+    "energy_score": 83
+  },
+  {
+    "entry": "Just relaxing for now, nothing major to say.",
+    "sentiment": "Neutral",
+    "confidence": 8,
+    "energy_score": 72
+  },
+  {
+    "entry": "Slaying my goals today like a legend \u2728\ud83d\udc83",
+    "sentiment": "Positive",
+    "confidence": 74,
+    "energy_score": 93
+  },
+  {
+    "entry": "Feeling meh, nothing exciting \ud83d\ude15",
+    "sentiment": "Negative",
+    "confidence": 81,
+    "energy_score": 6
+  },
+  {
+    "entry": "Mood: lit, energy high \ud83d\udd25\ud83d\ude01",
+    "sentiment": "Positive",
+    "confidence": 88,
+    "energy_score": 97
+  },
+  {
+    "entry": "Brain fried, can\u2019t focus \ud83d\ude35\u200d\ud83d\udcab",
+    "sentiment": "Negative",
+    "confidence": 70,
+    "energy_score": 9
+  },
+  {
+    "entry": "Team killed it today, big W \ud83d\udc4f",
+    "sentiment": "Positive",
+    "confidence": 93,
+    "energy_score": 98
+  },
+  {
+    "entry": "Feeling blessed and grateful \ud83d\ude4f\u2764\ufe0f",
+    "sentiment": "Positive",
+    "confidence": 97,
+    "energy_score": 99
+  },
+  {
+    "entry": "Lowkey nervous about tomorrow \ud83d\ude2c",
+    "sentiment": "Negative",
+    "confidence": 37,
+    "energy_score": 18
+  },
+  {
+    "entry": "Just folded some clothes, not very eventful.",
+    "sentiment": "Neutral",
+    "confidence": 36,
+    "energy_score": 46
+  },
+  {
+    "entry": "Pretty standard day overall, nothing surprising.",
+    "sentiment": "Positive",
+    "confidence": 38,
+    "energy_score": 83
+  },
+  {
+    "entry": "OMG this project is awesome \ud83d\ude0e\ud83d\udd25",
+    "sentiment": "Positive",
+    "confidence": 98,
+    "energy_score": 99
+  },
+  {
+    "entry": "Dead tired but accomplished \ud83d\ude34\ud83d\udcaf",
+    "sentiment": "Positive",
+    "confidence": 16,
+    "energy_score": 76
+  },
+  {
+    "entry": "Stress af, deadlines everywhere \ud83d\ude29",
+    "sentiment": "Negative",
+    "confidence": 71,
+    "energy_score": 9
+  },
+  {
+    "entry": "Feeling hype and energized today \ud83d\ude01\u2728",
+    "sentiment": "Positive",
+    "confidence": 97,
+    "energy_score": 99
+  },
+  {
+    "entry": "Workload cray, can\u2019t even lol \ud83e\udd2f",
+    "sentiment": "Neutral",
+    "confidence": 7,
+    "energy_score": 42
+  },
+  {
+    "entry": "Vibes are good, chill day \ud83d\ude0c",
+    "sentiment": "Positive",
+    "confidence": 95,
+    "energy_score": 99
+  },
+  {
+    "entry": "Totally crushing it rn \ud83d\udcaa\ud83d\udd25",
+    "sentiment": "Positive",
+    "confidence": 92,
+    "energy_score": 98
+  },
+  {
+    "entry": "Mood swings crazy today \ud83d\ude05",
+    "sentiment": "Neutral",
+    "confidence": 15,
+    "energy_score": 57
+  },
+  {
+    "entry": "Feeling anxious af, smh \ud83d\ude30",
+    "sentiment": "Negative",
+    "confidence": 69,
+    "energy_score": 9
+  },
+  {
+    "entry": "Big W at work today \ud83d\udc4f\ud83d\ude0e",
+    "sentiment": "Positive",
+    "confidence": 83,
+    "energy_score": 96
+  },
+  {
+    "entry": "Brain fried but happy \ud83d\ude34\ud83d\ude0a",
+    "sentiment": "Positive",
+    "confidence": 68,
+    "energy_score": 91
+  },
+  {
+    "entry": "Low energy, need coffee \u2615\ud83d\ude29",
+    "sentiment": "Neutral",
+    "confidence": 11,
+    "energy_score": 36
+  },
+  {
+    "entry": "Hyped about the weekend \ud83d\ude0e\u2728",
+    "sentiment": "Positive",
+    "confidence": 82,
+    "energy_score": 95
+  },
+  {
+    "entry": "Work is lit, team killing it \ud83d\udd25",
+    "sentiment": "Positive",
+    "confidence": 91,
+    "energy_score": 98
+  },
+  {
+    "entry": "Dead tired af, smh \ud83d\ude34",
+    "sentiment": "Negative",
+    "confidence": 64,
+    "energy_score": 12
+  },
+  {
+    "entry": "Had a quiet morning, nothing notable.",
+    "sentiment": "Neutral",
+    "confidence": 26,
+    "energy_score": 67
+  },
+  {
+    "entry": "Slow day overall, pretty average vibes.",
+    "sentiment": "Negative",
+    "confidence": 76,
+    "energy_score": 7
+  },
+  {
+    "entry": "Feeling blessed and happy \ud83d\ude4f\ud83d\ude01",
+    "sentiment": "Positive",
+    "confidence": 97,
+    "energy_score": 99
+  },
+  {
+    "entry": "Stress level maxed out \ud83d\ude30",
+    "sentiment": "Negative",
+    "confidence": 77,
+    "energy_score": 7
+  },
+  {
+    "entry": "Slaying personal goals today \ud83d\udc83\u2728",
+    "sentiment": "Positive",
+    "confidence": 52,
+    "energy_score": 88
+  },
+  {
+    "entry": "Mood: chill, nothing exciting \ud83d\ude0c",
+    "sentiment": "Neutral",
+    "confidence": 16,
+    "energy_score": 47
+  },
+  {
+    "entry": "High energy, totally vibing \ud83d\ude01\ud83d\udd25",
+    "sentiment": "Positive",
+    "confidence": 92,
+    "energy_score": 98
+  },
+  {
+    "entry": "Frustrated af, can\u2019t focus \ud83d\ude24",
+    "sentiment": "Negative",
+    "confidence": 86,
+    "energy_score": 4
+  },
+  {
+    "entry": "Big wins at work today \ud83d\udc4f\ud83d\udd25",
+    "sentiment": "Positive",
+    "confidence": 94,
+    "energy_score": 98
+  },
+  {
+    "entry": "Brain fried af, send help \ud83d\ude35\u200d\ud83d\udcab",
+    "sentiment": "Negative",
+    "confidence": 72,
+    "energy_score": 8
+  },
+  {
+    "entry": "Feeling hype and energized \ud83d\ude0e\u2728",
+    "sentiment": "Positive",
+    "confidence": 95,
+    "energy_score": 99
+  },
+  {
+    "entry": "Workload cray, deadlines everywhere \ud83e\udd2f",
+    "sentiment": "Negative",
+    "confidence": 12,
+    "energy_score": 26
+  },
+  {
+    "entry": "Chill vibes today \ud83d\ude0c",
+    "sentiment": "Positive",
+    "confidence": 78,
+    "energy_score": 94
+  },
+  {
+    "entry": "Totally crushing deadlines \ud83d\udcbc\ud83d\udd25",
+    "sentiment": "Positive",
+    "confidence": 49,
+    "energy_score": 86
+  },
+  {
+    "entry": "Mood swings on point lol \ud83d\ude05",
+    "sentiment": "Positive",
+    "confidence": 47,
+    "energy_score": 86
+  },
+  {
+    "entry": "Feeling anxious, heartbeat racing \ud83d\ude30",
+    "sentiment": "Negative",
+    "confidence": 66,
+    "energy_score": 10
+  },
+  {
+    "entry": "Big W with the team today \ud83d\udc4f\ud83d\ude0e",
+    "sentiment": "Positive",
+    "confidence": 82,
+    "energy_score": 95
+  },
+  {
+    "entry": "Dead tired but accomplished \ud83d\ude34\ud83d\udcaf",
+    "sentiment": "Positive",
+    "confidence": 16,
+    "energy_score": 76
+  },
+  {
+    "entry": "Stress af, deadlines everywhere \ud83d\ude29",
+    "sentiment": "Negative",
+    "confidence": 71,
+    "energy_score": 9
+  },
+  {
+    "entry": "Feeling hype, energy high \ud83d\ude01\u2728",
+    "sentiment": "Positive",
+    "confidence": 95,
+    "energy_score": 99
+  },
+  {
+    "entry": "Workload insane, can\u2019t even lol \ud83e\udd2f",
+    "sentiment": "Negative",
+    "confidence": 11,
+    "energy_score": 40
+  },
+  {
+    "entry": "Vibes good, chill day \ud83d\ude0c",
+    "sentiment": "Positive",
+    "confidence": 92,
+    "energy_score": 98
+  },
+  {
+    "entry": "Totally crushing it rn \ud83d\udcaa\ud83d\udd25",
+    "sentiment": "Positive",
+    "confidence": 92,
+    "energy_score": 98
+  },
+  {
+    "entry": "Mood swings crazy \ud83d\ude05",
+    "sentiment": "Neutral",
+    "confidence": 25,
+    "energy_score": 54
+  },
+  {
+    "entry": "Feeling anxious af \ud83d\ude30",
+    "sentiment": "Negative",
+    "confidence": 72,
+    "energy_score": 8
+  },
+  {
+    "entry": "Big W at work \ud83d\udc4f\ud83d\ude0e",
+    "sentiment": "Positive",
+    "confidence": 80,
+    "energy_score": 95
+  },
+  {
+    "entry": "Brain fried but happy \ud83d\ude34\ud83d\ude0a",
+    "sentiment": "Positive",
+    "confidence": 68,
+    "energy_score": 91
+  },
+  {
+    "entry": "Low energy, need coffee \u2615\ud83d\ude29",
+    "sentiment": "Neutral",
+    "confidence": 11,
+    "energy_score": 36
+  },
+  {
+    "entry": "Hyped about weekend \ud83d\ude0e\u2728",
+    "sentiment": "Positive",
+    "confidence": 74,
+    "energy_score": 93
+  },
+  {
+    "entry": "Work is lit \ud83d\udd25",
+    "sentiment": "Positive",
+    "confidence": 80,
+    "energy_score": 95
+  },
+  {
+    "entry": "Dead tired af \ud83d\ude34",
+    "sentiment": "Negative",
+    "confidence": 63,
+    "energy_score": 12
+  },
+  {
+    "entry": "Just doing some cleaning, pretty average.",
+    "sentiment": "Neutral",
+    "confidence": 29,
+    "energy_score": 43
+  },
+  {
+    "entry": "Walked outside for a bit, nothing unusual.",
+    "sentiment": "Neutral",
+    "confidence": 65,
+    "energy_score": 57
+  },
+  {
+    "entry": "Feeling blessed \ud83d\ude4f\ud83d\ude01",
+    "sentiment": "Positive",
+    "confidence": 95,
+    "energy_score": 99
+  },
+  {
+    "entry": "Stress maxed out \ud83d\ude30",
+    "sentiment": "Negative",
+    "confidence": 65,
+    "energy_score": 10
+  },
+  {
+    "entry": "Slaying personal goals \ud83d\udc83\u2728",
+    "sentiment": "Positive",
+    "confidence": 29,
+    "energy_score": 82
+  },
+  {
+    "entry": "Mood chill \ud83d\ude0c",
+    "sentiment": "Positive",
+    "confidence": 29,
+    "energy_score": 81
+  },
+  {
+    "entry": "High energy, totally vibing \ud83d\ude01\ud83d\udd25",
+    "sentiment": "Positive",
+    "confidence": 92,
+    "energy_score": 98
+  },
+  {
+    "entry": "Frustrated af \ud83d\ude24",
+    "sentiment": "Negative",
+    "confidence": 81,
+    "energy_score": 6
+  },
+  {
+    "entry": "Big wins today \ud83d\udc4f\ud83d\udd25",
+    "sentiment": "Positive",
+    "confidence": 92,
+    "energy_score": 98
+  },
+  {
+    "entry": "Brain fried af \ud83d\ude35\u200d\ud83d\udcab",
+    "sentiment": "Negative",
+    "confidence": 57,
+    "energy_score": 12
+  },
+  {
+    "entry": "Feeling hype \ud83d\ude0e\u2728",
+    "sentiment": "Positive",
+    "confidence": 93,
+    "energy_score": 98
+  },
+  {
+    "entry": "Workload cray \ud83e\udd2f",
+    "sentiment": "Neutral",
+    "confidence": 21,
+    "energy_score": 38
+  },
+  {
+    "entry": "Chill vibes \ud83d\ude0c",
+    "sentiment": "Positive",
+    "confidence": 65,
+    "energy_score": 91
+  },
+  {
+    "entry": "Totally crushing deadlines \ud83d\udcbc\ud83d\udd25",
+    "sentiment": "Positive",
+    "confidence": 49,
+    "energy_score": 86
+  },
+  {
+    "entry": "Mood swings lol \ud83d\ude05",
+    "sentiment": "Neutral",
+    "confidence": 32,
+    "energy_score": 61
+  },
+  {
+    "entry": "Feeling anxious \ud83d\ude30",
+    "sentiment": "Negative",
+    "confidence": 62,
+    "energy_score": 11
+  },
+  {
+    "entry": "Big W today \ud83d\udc4f\ud83d\ude0e",
+    "sentiment": "Positive",
+    "confidence": 86,
+    "energy_score": 96
+  },
+  {
+    "entry": "Dead tired but accomplished \ud83d\ude34\ud83d\udcaf",
+    "sentiment": "Positive",
+    "confidence": 16,
+    "energy_score": 76
+  },
+  {
+    "entry": "Stress af \ud83d\ude29",
+    "sentiment": "Negative",
+    "confidence": 66,
+    "energy_score": 10
+  },
+  {
+    "entry": "Feeling hype \ud83d\ude01\u2728",
+    "sentiment": "Positive",
+    "confidence": 94,
+    "energy_score": 99
+  },
+  {
+    "entry": "Workload insane \ud83e\udd2f",
+    "sentiment": "Negative",
+    "confidence": 24,
+    "energy_score": 28
+  },
+  {
+    "entry": "Vibes good \ud83d\ude0c",
+    "sentiment": "Positive",
+    "confidence": 89,
+    "energy_score": 97
+  },
+  {
+    "entry": "Totally crushing it \ud83d\udcaa\ud83d\udd25",
+    "sentiment": "Positive",
+    "confidence": 88,
+    "energy_score": 97
+  },
+  {
+    "entry": "The workload is crushing me, fr \ud83d\ude02",
+    "sentiment": "Negative",
+    "confidence": 66,
+    "energy_score": 11
+  }
+]
