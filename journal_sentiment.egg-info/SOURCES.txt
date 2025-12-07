@@ -1,6 +1,7 @@
 README.md
 pyproject.toml
 journal/__init__.py
+journal/__main__.py
 journal/cli.py
 journal/normalize.py
 journal/pipeline.py
@@ -12,6 +13,7 @@ journal_sentiment.egg-info/dependency_links.txt
 journal_sentiment.egg-info/entry_points.txt
 journal_sentiment.egg-info/requires.txt
 journal_sentiment.egg-info/top_level.txt
+tests/test_cli.py
 tests/test_normal.py
 tests/test_pipeline.py
 tests/test_scoring.py

@@ -9,7 +9,7 @@ description = "A command-line journal sentiment analyzer using RoBERTa"
 readme = "README.md"
 requires-python = ">=3.10"
 authors = [
-  { name = "Your Name", email = "you@example.com" }
+  { name = "Shiva Goli", email = "shivag2@illinois.edu" }
 ]
 
 dependencies = [
