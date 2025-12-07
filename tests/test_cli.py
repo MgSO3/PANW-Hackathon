@@ -1,7 +1,7 @@
 import json
 import pytest
 from click.testing import CliRunner
-from journal.cli import main
+from journal.__main__ import main
 
 TEST_ENTRIES = [
     {"entry": "I am crushing it 😁"},

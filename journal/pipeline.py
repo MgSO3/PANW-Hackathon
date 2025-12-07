@@ -9,7 +9,7 @@ def run(input = "entries.json", out = "output.json"):
     overwrite(out)
     entries = read(input) or []
     output = []
-
+    #Runs pipeline on every entry
     for row in entries:
         text = clean_text(row["entry"])
         sentiment, confidence = classify(classifier,text)
@@ -20,5 +20,6 @@ def run(input = "entries.json", out = "output.json"):
             "confidence" : confidence,
             "energy_score": energy
         })
+    #Writes to output and returns last 3
     write(out,output)
     return output[-3:]

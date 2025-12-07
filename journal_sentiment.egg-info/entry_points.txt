@@ -1,2 +1,2 @@
 [console_scripts]
-journal = journal.cli:main
+journal = journal.__main__:main

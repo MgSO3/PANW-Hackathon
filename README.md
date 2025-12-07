@@ -9,6 +9,7 @@ This tool uses the RoBERTa sentiment analysis tool from the HuggingFace transfor
 ### 1. Clone the repository
 
 git clone https://github.com/MgSO3/PANW-Hackathon
+
 cd Mental-Wellbeing-Journal
 
 ### 2. Install dependencies
@@ -21,6 +22,7 @@ python -m journal --input entries.json --output output.json
 **OR**
 
 pip install -e .
+
 journal
 
 ### 4. Run tests
@@ -32,8 +34,20 @@ Add entries by appending to `entries.json`
     Output is stored in `output.json`
 
     
-## Methodology
+## Design Choices and Methodology
 This project was made using an AI sentiment analysis model from the HuggingFace `transformers` library. ChatGPT was used for data generation, research, and help understanding certain unfamiliar libraries. The final codebase is fully owned and validated by the developer.
+
+I selected the RoBERTa emotion-analysis model by prompting ChatGPT for the best sentiment analysis model. I then checked to see that it was trained on a lot of social media style text, and would be a great model to use for this project. 
+
+To design the pipeline, I separated functions into multiple files for proper organization. This allows me to easily navigate between files based on functionality.
+
+To calculate energy score, I took the actual scores from the model, multiplied the positive score by 100 and the neutral score by 50, and added them to get an energy score.
+
+To calculate confidence, I used the mean squared difference between the highest score and the lowest two scores.
+
+To minimize messiness, I optimized for few commands to run the system, and to have an easily readable output. 
+
+I decided to use click as well for robustness.
 
 
 ## Notes 
